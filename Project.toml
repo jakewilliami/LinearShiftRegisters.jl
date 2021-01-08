@@ -1,0 +1,13 @@
+name = "LinearShiftRegisters"
+uuid = "b377b9e1-7210-4929-953e-378af7ebf6ce"
+authors = ["Jake W. Ireland <jakewilliami@icloud.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
