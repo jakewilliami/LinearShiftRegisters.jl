@@ -1,7 +1,7 @@
 name = "LinearShiftRegisters"
 uuid = "b377b9e1-7210-4929-953e-378af7ebf6ce"
 authors = ["Jake W. Ireland <jakewilliami@icloud.com> and contributors"]
-version = "0.1.0"
+version = "0.1.1"
 
 [compat]
 julia = "1"
