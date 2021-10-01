@@ -1,4 +1,4 @@
-include(joinpath(dirname(@__DIR__), "src", "LinearShiftRegisters.jl")); using .LinearShiftRegisters
+using LinearShiftRegisters
 using Test
 
 @testset "LinearShiftRegisters.jl" begin
