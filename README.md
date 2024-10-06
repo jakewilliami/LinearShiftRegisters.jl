@@ -11,3 +11,9 @@
 ---
 
 See [here](https://www.wikiwand.com/en/Linear-feedback_shift_register) and [here](https://www.wikiwand.com/en/Linear_congruential_generator) for an explanation of the functions in this package.
+
+**Warning**: this package is potentially inefficient, small, and perhaps not very useful.  As such, it is not registered with Julia.
+
+## Citation
+
+If your research depends on LinearShiftRegisters.jl, please consider giving us a formal citation: [`citation.bib`](./citation.bib).
